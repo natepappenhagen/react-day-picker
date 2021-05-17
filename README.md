@@ -1,7 +1,17 @@
 <p align="center">
 <a href="http://react-day-picker.js.org"><img width="80" style="margin: 0 auto" alt="title" src="https://user-images.githubusercontent.com/120693/33364057-0d4a962a-d4e3-11e7-8506-0f9aede2b345.png"></a>
 </p>
-<h1 align="center">react-day-picker</h1>
+<p align="center">
+  Totally unmaintained fork of v.7.4.10 that exports `DayPickerInput` in an ES Modules Compliant way.
+  making it possible to import DayPickerInput like this:
+  ```
+  import { DayPickerInput } from 'react-day-picker';
+  ```
+  <br />
+  This fork will allow builds to proceed for rollup and vite.
+</p>
+
+<h1 align="center">react-day-picker (es modules compliant)</h1>
 <p align="center">
   Flexible date picker component for <a href="https://facebook.github.io/react/">React</a>.
   <br />
@@ -29,10 +39,3 @@
   </a>
 </p>
 
-## Get support
-
-Please fork and use [https://codesandbox.io/s/XDAE3x0W8](https://codesandbox.io/s/XDAE3x0W8) to reproduce your problem.
-
-* Ask on on [Stack Overflow](http://stackoverflow.com/questions/tagged/react-day-picker?sort=newest) tagging your question with `react-day-picker`.
-* Open a [new issue](https://github.com/gpbl/react-day-picker/issues/new) on GitHub.
-* Join the [Gitter room](https://gitter.im/gpbl/react-day-picker) to chat with other developers.
