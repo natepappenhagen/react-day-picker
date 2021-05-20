@@ -1,15 +1,17 @@
-<p align="center">
-<a href="http://react-day-picker.js.org"><img width="80" style="margin: 0 auto" alt="title" src="https://user-images.githubusercontent.com/120693/33364057-0d4a962a-d4e3-11e7-8506-0f9aede2b345.png"></a>
-</p>
-<p align="center">
   Totally unmaintained fork of v.7.4.10 that exports `DayPickerInput` in an ES Modules Compliant way.
   making it possible to import DayPickerInput like this:
   ```
   import { DayPickerInput } from 'react-day-picker';
   ```
   <br />
-  This fork will allow builds to proceed for rollup and vite.
+  - This fork will allow builds to proceed for rollup and vite.
+
+
+<br />
+<p align="center">
+<a href="http://react-day-picker.js.org"><img width="80" style="margin: 0 auto" alt="title" src="https://user-images.githubusercontent.com/120693/33364057-0d4a962a-d4e3-11e7-8506-0f9aede2b345.png"></a>
 </p>
+<p align="center">
 
 <h1 align="center">react-day-picker (es modules compliant)</h1>
 <p align="center">
